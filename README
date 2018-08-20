@@ -1,0 +1,4 @@
+
+- need rubygem-bundler
+- bundle install
+./find_mighty_max.rb
